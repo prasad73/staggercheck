@@ -1,0 +1,14 @@
+folder details of basic test
+      
+      It contain three files, accelerometer, gps and lidar.Accelerometer used for finding the tilt.Gps used for find the location and 
+      lidar for finding the distance of object from the sensor module.
+
+1.accelerometer test-----It return the analog voltage output of all three axis with respect to change in direction.
+2.gps test---------------It returns the latitude and longitude value of current location
+3.lidar test-------------It returns the distance of an object fron the sensor module
+
+Reference
+
+1.Accelerrometer--  https://www.rhydolabz.com/wiki/?p=1417
+2.gps-------------  http://www.rhydolabz.com/wiki/?p=658
+3.tf mini lidar---  https://robu.in/product/tf-mini-lidar-laser-range-finder-security-li-dar-sensor-drones-uav-uas-robots/

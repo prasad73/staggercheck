@@ -1,0 +1,8 @@
+This folder contains a GPS and angle .ino file.
+1.Gps file contains the location finding function.
+2.Angle file contains the tilt angle finding function.
+
+
+reference
+
+1.angle measurements -------- https://www.electronicsblog.net/simple-angle-meter-using-adxl335-accelerometer-arduino/
